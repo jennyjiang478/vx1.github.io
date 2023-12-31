@@ -1,3 +1,12 @@
 title: Neutrino's ArXiv
 show_downloads: False
+desciption: 'University of Cambridge
 theme: jekyll-theme-minimal
+
+navigation:
+- {title: "About", url: ""}
+- {title: "Nerdy", url: ""}
+- {title: "Blog", url: ""}
+
+plugins: 
+- jekyll-feed
