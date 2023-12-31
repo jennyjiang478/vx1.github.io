@@ -4,9 +4,9 @@ desciption: 'University of Cambridge
 theme: jekyll-theme-minimal
 
 navigation:
-- {title: "About", url: ""}
-- {title: "Nerdy", url: ""}
-- {title: "Blog", url: ""}
+- {title: "About", url: "https://jennyjiang478.github.io/vx.github.io/"}
+- {title: "Nerdy", url: "https://jennyjiang478.github.io/vx.github.io/"}
+- {title: "Blog", url: "https://jennyjiang478.github.io/vx.github.io/"}
 
 plugins: 
 - jekyll-feed
