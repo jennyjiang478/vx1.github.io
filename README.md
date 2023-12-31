@@ -1,4 +1,4 @@
-# Jenny Jiang
+
 
 ## About 
 Hi! This is Jenny, a 2nd year uni student who likes nerdy stuff amongst lots of other things. Here's my CV.
